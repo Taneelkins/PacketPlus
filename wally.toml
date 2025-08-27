@@ -1,0 +1,12 @@
+[package]
+name = "taneelkins/packetplus"
+version = "1.1.2-fork.0"
+description = "Packet+ by AlexanderLindholt, packaged for Wally."
+license = "MIT"
+authors = ["AlexanderLindholt", "Packaged by taneelkins"]
+realm = "shared"
+registry = "https://github.com/UpliftGames/wally-index"
+repository = "https://github.com/AlexanderLindholt/PacketPlus"
+homepage = "https://alexanderlindholt.gitbook.io/"
+
+[dependencies]
